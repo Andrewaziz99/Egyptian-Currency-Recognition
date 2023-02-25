@@ -4,3 +4,6 @@ All you need is to collect some training dataset or get it from this link: "http
 and the testing dataset link: "https://drive.google.com/drive/folders/1Mtqaa5Z_bDxGn3QeM43M82poQMpShT_k?usp=share_link".
 You also need to check that you installed tensorflow, opencv, numpy and matplotlib.
 The training accuracy is approximately 0.9
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Andrewaziz99&label=Profile%20views&color=0e75b6&style=flat" alt="AndrewAziz" /> </p>
